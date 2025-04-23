@@ -34,5 +34,6 @@ sqlcmd -S "..." -d "..." -U "sa" -P "..." -i "..." -f 65001
 - `-i` คือ Input file path
 - `-f` คือ Code page of the input file (65001 = UTF-8)
 
-Original: <https://www.thaicreate.com/member-profile/uid-100725.html> [AT12]
-Original Eng:<https://github.com/kongvut/thai-province-data> [kongvut]
+- Original: <https://www.thaicreate.com/member-profile/uid-100725.html> [AT12]
+
+- Original Eng:<https://github.com/kongvut/thai-province-data> [kongvut]
